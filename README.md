@@ -1,1 +1,1 @@
-# ball-game-2
+# CP-2
